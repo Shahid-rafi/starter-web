@@ -2,4 +2,6 @@ This is a demo file.
 
 Added a new line in the feature branch.
 
-adding a new line for rebase conflict.
+
+Adding a new line in a new feature branch for checking rebase.
+
