@@ -8,3 +8,4 @@ A new line has been added and this for work branch.
 >>>>>>> work
 
 New line added for a change.
+Google Summer of Code.
