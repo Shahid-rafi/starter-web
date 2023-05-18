@@ -5,3 +5,4 @@ Added a new line in the feature branch.
 
 Adding a new line in a new feature branch for checking rebase.
 
+another one line added.
