@@ -7,4 +7,7 @@ Adding a new line in a new feature branch for checking rebase.
 
 another one line added.
 
+<<<<<<< HEAD
 line added in remote.
+=======
+new line added in the local again.
