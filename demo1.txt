@@ -6,3 +6,5 @@ This is for demo and is for master.
 
 A new line has been added and this for work branch.
 >>>>>>> work
+
+New line added for a change.
