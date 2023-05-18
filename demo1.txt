@@ -1,4 +1,8 @@
 This is my new file.
 
+<<<<<<< HEAD
 This is for demo and is for master.
-A new line has been added and has been added to the master.
+=======
+
+A new line has been added and this for work branch.
+>>>>>>> work
