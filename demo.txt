@@ -11,3 +11,5 @@ another one line added.
 line added in remote.
 =======
 new line added in the local again.
+
+New texts has been added now.
